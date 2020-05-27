@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="gxt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gxt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gxt-theme-triton.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gxt-theme-neptune.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gxt-chart.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/gxt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gxt-theme-triton.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gxt-theme-neptune.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gxt-chart.jar!/" />
+    </SOURCES>
+  </library>
+</component>
